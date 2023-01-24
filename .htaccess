@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName  "Restricted access "
-AuthUserFile  "/deploymytest.netlify.app/private.html/.htpasswd "
+AuthUserFile  "/deploymytest.netlify.app/.htpasswd "
 Require valid-user
