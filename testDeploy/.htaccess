@@ -1,0 +1,6 @@
+AuthName "Secure directory"
+AuthUserFile D:\PHP\UniformServer\UniformServer\UniServerZ\www\testDeploy\.htpasswd
+AuthType Basic
+<Files private.html>
+require valid-user
+</Files>
