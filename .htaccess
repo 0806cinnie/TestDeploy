@@ -1,7 +1,7 @@
 AuthName "Secure directory"
 
 AuthType Basic
-AuthUserFile /deploymytest.netlify.app/.htpasswd
+AuthUserFile D:\PHP\UniformServer\UniformServer\UniServerZ\www\testDeploy\.htpasswd
 <Files private.html>
 require valid-user
 </Files>
