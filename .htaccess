@@ -1,5 +1,4 @@
 AuthName "Secure directory"
-
 AuthType Basic
 AuthUserFile D:\PHP\UniformServer\UniformServer\UniServerZ\www\testDeploy\.htpasswd
 <Files private.html>
